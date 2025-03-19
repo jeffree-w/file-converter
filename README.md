@@ -21,4 +21,4 @@ python converter.py
 ```
 
 ## License
-Do whatever
+CC0 1.0 Universal (the do whatever license)
