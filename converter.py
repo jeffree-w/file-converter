@@ -1,6 +1,4 @@
 import os
-import subprocess
-import sys
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from tkinterdnd2 import TkinterDnD, DND_FILES
