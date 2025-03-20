@@ -5,7 +5,7 @@ This is a simple tool for Windows 11 that lets you change image file formats eas
 Supports: JPEG, PNG, BMP, GIF, TIFF, WebP, and ICO.
 
 ## Features
-- Convert images (obviously).
+- Convert image file formats (obviously).
 - Batch conversion.
 - Drag-and-drop.
 
